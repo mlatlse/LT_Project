@@ -10,3 +10,4 @@ Build a scraper to get information about LSE Professors
 
 
 # Architecture / Functions
+![Alt](https://github.com/mlatlse/LT_Project/blob/master/Untitled%20Diagram.png?raw=true "")
