@@ -20,3 +20,14 @@ Duration: 1 week.
 
 + Stage four: Build a sever that allow users to search for a professor in a particular area, with corresponding information  (office hour, contacts,...) displayed.
 Duration:  1 week.
+
+
+
+# Week 1
+
+Link to notebook:[https://colab.research.google.com/drive/1sY5Hta4JbZXwXzyCVCDXqeVAMlv221ni](https://colab.research.google.com/drive/1sY5Hta4JbZXwXzyCVCDXqeVAMlv221ni)
+
++ Motivations for data mining
++ How do you scrape data from the web?
+
+
